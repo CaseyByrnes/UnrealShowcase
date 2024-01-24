@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ShowcasePlugin.cpp.obj": [
+			"ShowcasePlugin.init.gen.cpp.obj",
+			"ShowcasePluginFileReader.gen.cpp.obj",
+			"ShowcasePlugin.cpp.obj",
+			"ShowcasePluginFileReader.cpp.obj"
+		]
+	}
+}

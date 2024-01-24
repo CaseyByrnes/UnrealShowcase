@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShowcasePlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_5.1\Unreal Projects\2023SpringTeam34-Epic-Games\Intermediate\Build\Win64\Unreal_ShowcaseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\Program Files\Epic Games\UE_5.1\Unreal Projects\2023SpringTeam34-Epic-Games\Plugins\ShowcasePlugin\Intermediate\Build\Win64\UnrealEditor\Development\ShowcasePlugin\Module.ShowcasePlugin.cpp.obj"
+"E:\Program Files\Epic Games\UE_5.1\Unreal Projects\2023SpringTeam34-Epic-Games\Plugins\ShowcasePlugin\Intermediate\Build\Win64\UnrealEditor\Development\ShowcasePlugin\Default.rc2.res"
+/OUT:"E:\Program Files\Epic Games\UE_5.1\Unreal Projects\2023SpringTeam34-Epic-Games\Plugins\ShowcasePlugin\Intermediate\Build\Win64\UnrealEditor\Development\ShowcasePlugin\UnrealEditor-ShowcasePlugin.lib"

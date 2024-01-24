@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\intermediate\\build\\win64\\unrealeditor\\development\\showcaseplugin\\module.showcaseplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\intermediate\\build\\win64\\unreal_showcaseeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\intermediate\\build\\win64\\unrealeditor\\development\\showcaseplugin\\definitions.showcaseplugin.h",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\showcaseplugin\\uht\\showcaseplugin.init.gen.cpp",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\showcaseplugin\\uht\\showcasepluginfilereader.gen.cpp",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\source\\showcaseplugin\\public\\showcasepluginfilereader.h",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\showcaseplugin\\uht\\showcasepluginfilereader.generated.h",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\source\\showcaseplugin\\private\\showcaseplugin.cpp",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\source\\showcaseplugin\\public\\showcaseplugin.h",
+            "e:\\program files\\epic games\\ue_5.1\\unreal projects\\2023springteam34-epic-games\\plugins\\showcaseplugin\\source\\showcaseplugin\\private\\showcasepluginfilereader.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
